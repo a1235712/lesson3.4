@@ -1,3 +1,4 @@
+print("Я конфликтую")
 i = int,
 if i in range(8):
     print("word")
@@ -9,6 +10,7 @@ if a < b:
 else:
     print("a равно b")
 print("Я конфликтую'")
+
 
 
 
